@@ -23,10 +23,10 @@ const Chat = () => {
 
     const history = useHistory();
     const {username,room,messages,setRoom, setMessages} = useContext(ChatContext);
-    const ENDPOINT = 'http://localhost:5000';
     const [loadPage,setLoadPage] = useState(false);
 
-   
+    const ENDPOINT = process.env.REACT_APP_CHAT_APP_API;
+
     useEffect(()=>{
         socket = io(ENDPOINT);
 

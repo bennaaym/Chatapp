@@ -5,7 +5,7 @@ const http = require('http');
 const {userJoined,userSendMessage, userDisconnected} = require('./socket');
 
 const PORT = process.env.PORT || 5000 ;
-const ORIGIN = "http://localhost:3000";
+const ORIGIN = " http://localhost:3000";
 
 const router = require('./router');
 const cors = require('cors')
