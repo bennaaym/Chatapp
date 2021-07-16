@@ -36,7 +36,7 @@ Home           |  Join
 [![Product Name Screen Shot][product-screenshot-3]](https://chatapp-socket-io.web.app/)
 
 This project is a simple real-time chat app where  users can either join an existing room or create their own rooms. 
-* The name of the rooms is unique
+* The name of each room is unique
 * A user can join and create several rooms
 
 ### Built With
