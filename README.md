@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/bennaaym/chatapp-socket-io/blob/main/LICENSE
 [product-screenshot]: https://i.ibb.co/MMSxZN9/screely-1626450806802.png
 [product-screenshot-2]:https://i.ibb.co/Ht0yn9c/screely-1626450830462.png
 [product-screenshot-3]:https://i.ibb.co/vJPtZVm/screely-1626450853410.png
